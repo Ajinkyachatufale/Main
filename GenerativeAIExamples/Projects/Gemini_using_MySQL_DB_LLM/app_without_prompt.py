@@ -41,8 +41,12 @@ def execute_query(question):
     try:
         #generate sql query from queation 
         response = chain.invoke({"question": question})
-        cleaned_query = response.strip('```sql\n').strip('\n```')
-        print("cleaned_query",cleaned_query)
+        #cleaned_query = response.strip('```sql\n').strip('\n```')
+        #print("cleaned_query",cleaned_query)
+
+        # Clean the response by removing any unwanted characters
+        cleaned_query = response.replace("SQLQuery:", "").replace("```", "").strip()
+        print("cleaned_query", cleaned_query)
 
         # Execute the query
         result = db.run(cleaned_query)
