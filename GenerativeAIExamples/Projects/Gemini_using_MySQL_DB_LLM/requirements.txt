@@ -1,0 +1,12 @@
+mysql-connector-python
+pymysql
+sentence-transformers
+chromadb
+mysql
+flask
+google-generativeai
+plotly
+plotly.express
+pandas
+mysql-connector
+python-dotenv
