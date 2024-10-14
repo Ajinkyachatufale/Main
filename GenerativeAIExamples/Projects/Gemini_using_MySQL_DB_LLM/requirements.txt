@@ -10,3 +10,5 @@ plotly.express
 pandas
 mysql-connector
 python-dotenv
+seaborn
+matplotlib
