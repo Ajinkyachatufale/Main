@@ -12,3 +12,8 @@ mysql-connector
 python-dotenv
 seaborn
 matplotlib
+langchain
+pypdf
+IPython
+llama-index-embeddings-gemini
+streamlit
