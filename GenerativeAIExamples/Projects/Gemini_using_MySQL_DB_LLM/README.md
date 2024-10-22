@@ -1,3 +1,6 @@
+here I am created RAG application to connect to multiple sources like mysql, sqllite, pdf and text file based on given option. we can downlode output data and search in output data. it will show graph also based on data. 
+
+
 
 ## Environment setup:
 		conda create -p venv python=3.12 
