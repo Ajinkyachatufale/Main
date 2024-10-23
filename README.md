@@ -48,9 +48,11 @@ Certification and Learning:
 
 
 Email: ajinkyachatufale@gmail.com
-LinkedIn: https://www.linkedin.com/in/ajinkya-chatufale/
-Mediam: https://medium.com/@ajinkyachatufale
-Certifications:  https://www.credly.com/users/ajinkya-chatufale
+GitHub:  https://github.com/Ajinkyachatufale/Main
+LinkedIn: https://www.linkedin.com/in/ajinkya-chatufale/ 
+Mediam: https://medium.com/@ajinkyachatufale 
+Certifications: https://www.credly.com/users/ajinkya-chatufale
+
 
 
 
